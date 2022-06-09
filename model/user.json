@@ -1,0 +1,8 @@
+[
+    {
+        "authId":1,
+        "name":"John",
+        "password":1234,
+        "role":"user"
+    }
+]

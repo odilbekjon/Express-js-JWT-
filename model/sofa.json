@@ -1,0 +1,50 @@
+[
+    {
+        "id": 2,
+        "name": "Chair",
+        "cost": "200$",
+        "made": 2020
+    },
+    {
+        "id": 3,
+        "name": "Cupboard",
+        "cost": "202$",
+        "made": 2021
+    },
+    {
+        "id": 4,
+        "name": "Desk",
+        "cost": "20$",
+        "made": 2020
+    },
+    {
+        "id": 5,
+        "name": "Fixture",
+        "cost": "2000$",
+        "made": 2019
+    },
+    {
+        "id": 6,
+        "name": "Sofa",
+        "cost": "2200$",
+        "made": 2022
+    },
+    {
+        "id": 7,
+        "name": "Bookcase",
+        "cost": "2050$",
+        "made": 2020
+    },
+    {
+        "id": 8,
+        "name": "Arm-chair",
+        "cost": "2500$",
+        "made": 2022
+    },
+    {
+        "id": 9,
+        "name": "Dresser",
+        "cost": "2000$",
+        "made": 2018
+    }
+]
